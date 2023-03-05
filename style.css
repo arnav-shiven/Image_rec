@@ -1,0 +1,13 @@
+body{
+    color: rgb(rgb(230, 130, 130), rgb(137, 255, 137), rgb(89, 178, 230));
+    background:lightgreen;
+}
+.heading{
+    width:80% ;
+    font-size: 22px;
+}
+#camera{
+border:2px dashed black;
+width: 350px;
+height: 300px;
+}
